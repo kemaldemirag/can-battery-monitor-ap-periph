@@ -3,7 +3,7 @@
 > Portfolio reference work derived from public job postings (CONTEXT-BOUND / PLANNED). Source jobs are requirements inspiration only; no client execution, fabrication, bench test or production claim is made.
 
 **Status:** INITIAL / EVIDENCE REQUIRED · **Workspace phase:** Phase 2 · **Source:** JOB-03
-**Handoff ID:** `CAN-ENERGY-PORTFOLIO-2026-09-15` · **Drive folder:** `Projelerim / Elektrik-Elektronik Mühendisliği / 15.09.2026 / 002-Proje Çıktıları / 03_can_battery_monitor`
+**Handoff ID:** `CAN-ENERGY-PORTFOLIO-2026-09-15`
 
 ## Goal
 Connect battery measurements to a CAN-based telemetry architecture inspired by JOB-03.
